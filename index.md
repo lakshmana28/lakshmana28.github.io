@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lakshmana Babu s Profile
 
 You can use the [editor on GitHub](https://github.com/lakshmana28/lakshmana28.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+About Me
+Contact
 ### Header 3
 
 - Bulleted
